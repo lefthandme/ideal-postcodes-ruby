@@ -12,7 +12,7 @@ spec = Gem::Specification.new do |s|
   s.homepage = 'https://ideal-postcodes.co.uk/documentation'
 
   s.add_dependency('rest-client', '~> 1.6')
-  s.add_dependency('multi_json', '~> 1.7.9')
+  s.add_dependency('multi_json', '~> 1.8.2')
 
   s.add_development_dependency('mocha', '~> 0.14.0')
   s.add_development_dependency('test-unit')
